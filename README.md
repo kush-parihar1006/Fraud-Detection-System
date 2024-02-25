@@ -1,0 +1,1 @@
+This is a classfication machine learning algorithm developed to identify and predict whether the given transaction is public or not.The transactions are of different types and the ML algorithms used for this project were Logistic Regression, Decision Trees and KNN
